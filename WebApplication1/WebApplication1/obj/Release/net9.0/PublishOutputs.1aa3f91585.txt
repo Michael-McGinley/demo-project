@@ -1,0 +1,7 @@
+C:\Demo Project\WebApplication1\PackageFolder\WebApplication1.exe
+C:\Demo Project\WebApplication1\PackageFolder\appsettings.Development.json
+C:\Demo Project\WebApplication1\PackageFolder\appsettings.json
+C:\Demo Project\WebApplication1\PackageFolder\WebApplication1.dll
+C:\Demo Project\WebApplication1\PackageFolder\WebApplication1.deps.json
+C:\Demo Project\WebApplication1\PackageFolder\WebApplication1.runtimeconfig.json
+C:\Demo Project\WebApplication1\PackageFolder\WebApplication1.pdb

@@ -1,0 +1,4 @@
+CONCOURSE_WORK_DIR=/var/lib/concourse
+CONCOURSE_TSA_WORKR_PRIVATE_KET=/etc/concourse/worker_key
+CONCOURSE_TSA_PIBLIC_KEY=/etc/concourse/tsa_host_key.pub
+CONCOURSE_TSA_HOST=127.0.0.1:2222

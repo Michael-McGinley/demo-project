@@ -1,0 +1,49 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0/win-x64": {
+      "octopus.dotnet.cli/9.1.7": {
+        "type": "package",
+        "tools": {
+          "tools/net6.0/any/Autofac.dll": {},
+          "tools/net6.0/any/DotnetToolSettings.xml": {},
+          "tools/net6.0/any/Markdig.dll": {},
+          "tools/net6.0/any/Microsoft.Extensions.Caching.Abstractions.dll": {},
+          "tools/net6.0/any/Microsoft.Extensions.Caching.Memory.dll": {},
+          "tools/net6.0/any/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {},
+          "tools/net6.0/any/Microsoft.Extensions.Options.dll": {},
+          "tools/net6.0/any/Microsoft.Extensions.Primitives.dll": {},
+          "tools/net6.0/any/Newtonsoft.Json.dll": {},
+          "tools/net6.0/any/NuGet.Common.dll": {},
+          "tools/net6.0/any/NuGet.Frameworks.dll": {},
+          "tools/net6.0/any/NuGet.Packaging.Core.Types.dll": {},
+          "tools/net6.0/any/NuGet.Packaging.Core.dll": {},
+          "tools/net6.0/any/NuGet.Packaging.dll": {},
+          "tools/net6.0/any/NuGet.Versioning.dll": {},
+          "tools/net6.0/any/Octodiff.dll": {},
+          "tools/net6.0/any/Octopus.Cli.dll": {},
+          "tools/net6.0/any/Octopus.Cli.pdb": {},
+          "tools/net6.0/any/Octopus.CommandLine.dll": {},
+          "tools/net6.0/any/Octopus.Server.Client.dll": {},
+          "tools/net6.0/any/Octopus.Server.MessageContracts.Base.HttpRoutes.dll": {},
+          "tools/net6.0/any/Octopus.Server.MessageContracts.Base.dll": {},
+          "tools/net6.0/any/Octopus.TinyTypes.Json.dll": {},
+          "tools/net6.0/any/Octopus.TinyTypes.TypeConverters.dll": {},
+          "tools/net6.0/any/Octopus.TinyTypes.dll": {},
+          "tools/net6.0/any/Octopus.Versioning.dll": {},
+          "tools/net6.0/any/Octostache.dll": {},
+          "tools/net6.0/any/Serilog.Sinks.ColoredConsole.dll": {},
+          "tools/net6.0/any/Serilog.Sinks.Trace.dll": {},
+          "tools/net6.0/any/Serilog.dll": {},
+          "tools/net6.0/any/Sprache.dll": {},
+          "tools/net6.0/any/dotnet-octo.deps.json": {},
+          "tools/net6.0/any/dotnet-octo.dll": {},
+          "tools/net6.0/any/dotnet-octo.pdb": {},
+          "tools/net6.0/any/dotnet-octo.runtimeconfig.json": {}
+        }
+      }
+    }
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {}
+}

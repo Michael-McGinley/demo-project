@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="bank.RunCucumberTest" time="1.236" tests="3" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Demo Project\BDDCucumber\cucumber-archetype\target\test-classes;C:\Demo Project\BDDCucumber\cucumber-archetype\target\classes;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\cucumber-java\7.12.1\cucumber-java-7.12.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\cucumber-core\7.12.1\cucumber-core-7.12.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\cucumber-gherkin\7.12.1\cucumber-gherkin-7.12.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.12.1\cucumber-gherkin-messages-7.12.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\gherkin\26.2.0\gherkin-26.2.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\messages\22.0.0\messages-22.0.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\tag-expressions\5.0.1\tag-expressions-5.0.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\cucumber-expressions\16.1.2\cucumber-expressions-16.1.2.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\datatable\7.12.1\datatable-7.12.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\cucumber-plugin\7.12.1\cucumber-plugin-7.12.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\docstring\7.12.1\docstring-7.12.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\html-formatter\20.3.1\html-formatter-20.3.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\junit-xml-formatter\0.2.0\junit-xml-formatter-0.2.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\ci-environment\9.2.0\ci-environment-9.2.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\cucumber-junit-platform-engine\7.12.1\cucumber-junit-platform-engine-7.12.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\junit\platform\junit-platform-engine\1.9.3\junit-platform-engine-1.9.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\junit\platform\junit-platform-commons\1.9.3\junit-platform-commons-1.9.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\junit\platform\junit-platform-suite\1.9.3\junit-platform-suite-1.9.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\junit\platform\junit-platform-suite-api\1.9.3\junit-platform-suite-api-1.9.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\junit\platform\junit-platform-suite-engine\1.9.3\junit-platform-suite-engine-1.9.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\junit\platform\junit-platform-suite-commons\1.9.3\junit-platform-suite-commons-1.9.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\junit\platform\junit-platform-launcher\1.9.3\junit-platform-launcher-1.9.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.3\junit-jupiter-5.9.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.3\junit-jupiter-api-5.9.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.3\junit-jupiter-params-5.9.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.3\junit-jupiter-engine-5.9.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="Europe/London"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="GB"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11\bin"/>
+    <property name="sun.java.command" value="C:\Windows\Temp\surefire12561366565128379992\surefirebooter-20250214091241096_3.jar C:\Windows\Temp\surefire12561366565128379992 2025-02-14T09-12-40_641-jvmRun1 surefire-20250214091241096_1tmp surefire_0-20250214091241096_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Demo Project\BDDCucumber\cucumber-archetype\target\test-classes;C:\Demo Project\BDDCucumber\cucumber-archetype\target\classes;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\cucumber-java\7.12.1\cucumber-java-7.12.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\cucumber-core\7.12.1\cucumber-core-7.12.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\cucumber-gherkin\7.12.1\cucumber-gherkin-7.12.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.12.1\cucumber-gherkin-messages-7.12.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\gherkin\26.2.0\gherkin-26.2.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\messages\22.0.0\messages-22.0.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\tag-expressions\5.0.1\tag-expressions-5.0.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\cucumber-expressions\16.1.2\cucumber-expressions-16.1.2.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\datatable\7.12.1\datatable-7.12.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\cucumber-plugin\7.12.1\cucumber-plugin-7.12.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\docstring\7.12.1\docstring-7.12.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\html-formatter\20.3.1\html-formatter-20.3.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\junit-xml-formatter\0.2.0\junit-xml-formatter-0.2.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\ci-environment\9.2.0\ci-environment-9.2.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\cucumber\cucumber-junit-platform-engine\7.12.1\cucumber-junit-platform-engine-7.12.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\junit\platform\junit-platform-engine\1.9.3\junit-platform-engine-1.9.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\junit\platform\junit-platform-commons\1.9.3\junit-platform-commons-1.9.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\junit\platform\junit-platform-suite\1.9.3\junit-platform-suite-1.9.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\junit\platform\junit-platform-suite-api\1.9.3\junit-platform-suite-api-1.9.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\junit\platform\junit-platform-suite-engine\1.9.3\junit-platform-suite-engine-1.9.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\junit\platform\junit-platform-suite-commons\1.9.3\junit-platform-suite-commons-1.9.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\junit\platform\junit-platform-launcher\1.9.3\junit-platform-launcher-1.9.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.3\junit-jupiter-5.9.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.3\junit-jupiter-api-5.9.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.3\junit-jupiter-params-5.9.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.3\junit-jupiter-engine-5.9.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Windows\system32\config\systemprofile"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-01-17"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Demo Project\BDDCucumber\cucumber-archetype"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Windows\Temp\surefire12561366565128379992\surefirebooter-20250214091241096_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.18+9-LTS-195"/>
+    <property name="user.name" value="LENOVO-T14BE$"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Windows\system32\config\systemprofile\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Windows\TEMP\"/>
+    <property name="java.version" value="11.0.18"/>
+    <property name="user.dir" value="C:\Demo Project\BDDCucumber\cucumber-archetype"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jdk-11\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\sqlite;C:\Users\MichaelMcGinley\Downloads\apache-maven-3.9.9\bin;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.18+9-LTS-195"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="Example #1.1" classname="Examples" time="0.06">
+    <system-out><![CDATA[
+@accountBalance @ex1
+Scenario Outline: Check balance after Deposit &amp#27;[90m# bank/example.feature:12&amp#27;[0m
+  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mmy account has a balance of $&amp#27;[0m&amp#27;[32m&amp#27;[1m500&amp#27;[0m      &amp#27;[90m# bank.StepDefinitions.my_account_has_a_balance_of_$(int)&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI make a deposit of $&amp#27;[0m&amp#27;[32m&amp#27;[1m100&amp#27;[0m                &amp#27;[90m# bank.StepDefinitions.i_make_a_deposit_of_$(int)&amp#27;[0m
+  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mI check the balance&amp#27;[0m                    &amp#27;[90m# bank.StepDefinitions.i_check_the_balance()&amp#27;[0m
+600 600
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mthe available balance should be $&amp#27;[0m&amp#27;[32m&amp#27;[1m600&amp#27;[0m   &amp#27;[90m# bank.StepDefinitions.the_available_balance_should_be_$(int)&amp#27;[0m
+]]></system-out>
+  </testcase>
+  <testcase name="Example #1.2" classname="Examples" time="0.01">
+    <system-out><![CDATA[
+@accountBalance @ex1
+Scenario Outline: Check balance after Deposit &amp#27;[90m# bank/example.feature:13&amp#27;[0m
+  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mmy account has a balance of $&amp#27;[0m&amp#27;[32m&amp#27;[1m600&amp#27;[0m      &amp#27;[90m# bank.StepDefinitions.my_account_has_a_balance_of_$(int)&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI make a deposit of $&amp#27;[0m&amp#27;[32m&amp#27;[1m100&amp#27;[0m                &amp#27;[90m# bank.StepDefinitions.i_make_a_deposit_of_$(int)&amp#27;[0m
+  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mI check the balance&amp#27;[0m                    &amp#27;[90m# bank.StepDefinitions.i_check_the_balance()&amp#27;[0m
+700 700
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mthe available balance should be $&amp#27;[0m&amp#27;[32m&amp#27;[1m700&amp#27;[0m   &amp#27;[90m# bank.StepDefinitions.the_available_balance_should_be_$(int)&amp#27;[0m
+]]></system-out>
+  </testcase>
+  <testcase name="Example #1.3" classname="Examples" time="0.007">
+    <system-out><![CDATA[
+@accountBalance @ex1
+Scenario Outline: Check balance after Deposit &amp#27;[90m# bank/example.feature:14&amp#27;[0m
+  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mmy account has a balance of $&amp#27;[0m&amp#27;[32m&amp#27;[1m700&amp#27;[0m      &amp#27;[90m# bank.StepDefinitions.my_account_has_a_balance_of_$(int)&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI make a deposit of $&amp#27;[0m&amp#27;[32m&amp#27;[1m100&amp#27;[0m                &amp#27;[90m# bank.StepDefinitions.i_make_a_deposit_of_$(int)&amp#27;[0m
+  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mI check the balance&amp#27;[0m                    &amp#27;[90m# bank.StepDefinitions.i_check_the_balance()&amp#27;[0m
+800 800
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mthe available balance should be $&amp#27;[0m&amp#27;[32m&amp#27;[1m800&amp#27;[0m   &amp#27;[90m# bank.StepDefinitions.the_available_balance_should_be_$(int)&amp#27;[0m
+]]></system-out>
+  </testcase>
+</testsuite>
